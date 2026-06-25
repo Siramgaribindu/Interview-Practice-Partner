@@ -1,0 +1,6 @@
+{
+  "name": "Interview Practice Partner",
+  "description": "AI-powered mock interviews that simulate realistic technical and conversational screening, providing detailed performance logs and insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
